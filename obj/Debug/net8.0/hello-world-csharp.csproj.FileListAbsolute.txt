@@ -1,0 +1,14 @@
+F:\Treina-web\c#\hello-world-csharp\bin\Debug\net8.0\hello-world-csharp.exe
+F:\Treina-web\c#\hello-world-csharp\bin\Debug\net8.0\hello-world-csharp.deps.json
+F:\Treina-web\c#\hello-world-csharp\bin\Debug\net8.0\hello-world-csharp.runtimeconfig.json
+F:\Treina-web\c#\hello-world-csharp\bin\Debug\net8.0\hello-world-csharp.dll
+F:\Treina-web\c#\hello-world-csharp\bin\Debug\net8.0\hello-world-csharp.pdb
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\hello-world-csharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\hello-world-csharp.AssemblyInfoInputs.cache
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\hello-world-csharp.AssemblyInfo.cs
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\hello-world-csharp.csproj.CoreCompileInputs.cache
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\hello-world-csharp.dll
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\refint\hello-world-csharp.dll
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\hello-world-csharp.pdb
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\hello-world-csharp.genruntimeconfig.cache
+F:\Treina-web\c#\hello-world-csharp\obj\Debug\net8.0\ref\hello-world-csharp.dll
